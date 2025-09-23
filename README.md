@@ -1,2 +1,2 @@
-# Portfolio
-Project Management Professional with 15+ years in Monitoring, Evaluation, Research &amp; Learning (MERL). Skilled in building MEL systems, impact evaluations, and knowledge management using digital tools including Power BI, Tableau, SQL, Excel automation, and Kobo/SurveyCTO
+# Dashboards - Power BI
+I design interactive Power BI dashboards that showcase how data can drive decision-making in development programmes. These dashboards visualise sample, freely available datasets to demonstrate approaches for tracking indicators, analysing trends, and presenting results in clear, engaging ways for Monitoring, Evaluation, Research &amp; Learning (MERL)
